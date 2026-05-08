@@ -152,7 +152,7 @@ flutter install --release
 
 All data stays on device. No usage data is uploaded. Crash reports via Firebase Crashlytics contain only error type, device model, and app version.
 
-Privacy policy: [brightdev.github.io/phaseout-privacy](https://brightdev.github.io/phaseout-privacy)
+Privacy policy: [brightdev.github.io/phaseout-privacy][(https://brightdev.github.io/phaseout-privacy](https://23019520.github.io/phaseout-web/privacy_policy.html))
 
 ---
 
